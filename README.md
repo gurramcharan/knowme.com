@@ -1,0 +1,3 @@
+# About the game:-
+
+This is a small game where you should answer 5 questions of charan and test your score...

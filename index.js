@@ -18,7 +18,7 @@ function play(ques,answer){
 }
 
 var ques1 ={
-  question: "Where does Charan leave(nellore or hyderabad)? ",
+  question: "Where does Charan live(nellore or hyderabad)? ",
   answer: "nellore"
 }
 
@@ -28,7 +28,7 @@ var ques2 ={
 }
 
 var ques3 ={
-  question: "Where does charan study(chennai or banglore)? ",
+  question: "Where does Charan study(chennai or banglore)? ",
   answer: "chennai"
 }
 
